@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipCalculatorApp</string>
+    <string name="title">Calculadora de Propinas para grupos tacaños</string>
+    <string name="monto_total">Monto Total</string>
+    <string name="numero_personas">Número de Personas</string>
+    <string name="propina">Propina</string>
+    <string name="diez">10%</string>
+    <string name="quince">15%</string>
+    <string name="veinte">20%</string>
+    <string name="otro">Otro</string>
+    <string name="incluir_iva">Incluir IVA (16%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado">Resultado:</string>
+</resources>
+
